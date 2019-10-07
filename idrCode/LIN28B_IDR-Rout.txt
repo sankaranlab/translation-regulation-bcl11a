@@ -1,0 +1,52 @@
+is.broadpeak FALSE 
+[1] "Fix 23 stops\n"
+[1] "Fix 46 stops\n"
+read ../peaks/LIN28B_noDup_noLambda_peaks.narrowPeak :  48829 peaks
+ 48829 peaks are left after cleaning
+ ../peaks/LIN28B_rRNA_noDup_noLambda_peaks.narrowPeak :  58292 peaks
+ 58292  peaks are left after cleaninghalf.width= 75 
+significant measure= p.value 
+URI is done
+URI is saved at: LIN28B_IDR-uri.sav 
+EM is done
+
+EM is saved at: LIN28B_IDR-em.sav 
+EM estimation for the following files
+../peaks/LIN28B_noDup_noLambda_peaks.narrowPeak
+../peaks/LIN28B_rRNA_noDup_noLambda_peaks.narrowPeak
+$p
+[1] 0.6313865
+
+$rho1
+[1] 0.9393001
+
+$rho2
+[1] 0
+
+Write overlapped peaks and local idr to: LIN28B_IDR-overlapped-peaks.txt
+Write number of peaks above IDR cutoff [0.01, 0.25]: npeaks-aboveIDR.txt
+Marginal mean of two components:
+$x.mean1
+[1] 14942.5
+
+$x.mean2
+[1] 36292.43
+
+$y.mean1
+[1] 15475.05
+
+$y.mean2
+[1] 35381.38
+
+$x.sd1
+[1] 9243.205
+
+$x.sd2
+[1] 6042.275
+
+$y.sd1
+[1] 9715.285
+
+$y.sd2
+[1] 7667.115
+

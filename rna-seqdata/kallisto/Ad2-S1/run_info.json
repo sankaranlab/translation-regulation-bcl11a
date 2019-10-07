@@ -1,0 +1,13 @@
+{
+	"n_targets": 166096,
+	"n_bootstraps": 10,
+	"n_processed": 39414061,
+	"n_pseudoaligned": 36975986,
+	"n_unique": 9202751,
+	"p_pseudoaligned": 93.8,
+	"p_unique": 23.3,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Thu Aug  9 02:38:41 2018",
+	"call": "/data/aryee/julirsch/software/kallisto_linux-v0.44.0/kallisto quant -b 10 -t 16 -i /data/aryee/julirsch/software/kallisto_linux-v0.44.0/hg19_31kmer.idx -o /data/aryee/julirsch/BCL11A/out/kallisto/Ad2-S1 /data/aryee/julirsch/BCL11A/raw/Ad2-S1_1.fastq.gz /data/aryee/julirsch/BCL11A/raw/Ad2-S1_2.fastq.gz"
+}
